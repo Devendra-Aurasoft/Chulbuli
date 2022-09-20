@@ -1,0 +1,18 @@
+.LOGO_IMG{
+    width: 100px;
+}
+.bg_red{
+    background-color: #b11313 !important;
+}
+.text_red{
+    color: #b11313 !important;
+}
+li .my{
+    /* margin: 15px 0px !important; */
+}
+.line_height{
+    line-height: 35px;
+}
+.fs_25{
+    font-size: 25px;
+}
